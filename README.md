@@ -36,3 +36,26 @@ Disini adalah package main nya yang berfungsi sebagai titik masuk program, dan p
 Demonstrasi Program
 
 
+<img width="405" height="206" alt="Screenshot 2025-09-14 230156" src="https://github.com/user-attachments/assets/dd30f930-2226-45c0-94e7-73489112eac1" />
+
+Membuat sebuah event.
+
+<img width="468" height="194" alt="Screenshot 2025-09-14 230208" src="https://github.com/user-attachments/assets/eb514790-3e36-466f-b966-ff3f3b9cb329" />
+
+Melihat Event yang tersedia.
+
+<img width="559" height="332" alt="Screenshot 2025-09-14 230312" src="https://github.com/user-attachments/assets/a2436d16-00e3-4480-aaed-53476961801c" />
+
+Mengupdate atau mengubah event yang ada.
+
+<img width="646" height="306" alt="Screenshot 2025-09-14 230429" src="https://github.com/user-attachments/assets/ac6bd468-afc5-4eda-80e5-18828e425159" />
+
+Menghapus event yang ada.
+
+<img width="540" height="260" alt="Screenshot 2025-09-14 230415" src="https://github.com/user-attachments/assets/780f8f6f-6c0c-49c9-9dcd-7d05b33c8222" />
+
+Melakukan searching dengan kata kunci.
+
+
+
+
